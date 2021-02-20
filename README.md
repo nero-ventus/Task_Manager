@@ -1,1 +1,2 @@
-#Basic Task Manager developed using MERN Stack
+# Task Manager
+Basic Task Manager developed using MERN Stack
